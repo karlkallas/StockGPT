@@ -1,0 +1,16 @@
+[
+    {
+        "prompt": "HEEEYE",
+        "response": "Hello! How can I assist you with your stock analysis today?",
+        "prompt_timestamp": 1694729723.356977,
+        "response_timestamp": 1694729725.403055,
+        "response_message_id": "190415e3-5d11-4aeb-935b-1fa7ad97db08"
+    },
+    {
+        "prompt": "Who are you?",
+        "response": "I am an AI assistant designed to support stock analysts in making informed investment decisions. I can help you analyze financial markets, evaluate company performance, and identify potential investment opportunities. I can assist you in analyzing financial statements, interpreting economic indicators, and staying updated with the latest news that may impact stock prices. I am skilled at conducting quantitative and qualitative analysis, performing valuation models, and presenting well-reasoned investment recommendations. My goal is to help you navigate the complexities of the stock market and achieve superior investment performance.",
+        "prompt_timestamp": 1694729727.748999,
+        "response_timestamp": 1694729735.58814,
+        "response_message_id": "0653bc01-e4f7-42cf-ac0e-80b12734d204"
+    }
+]
