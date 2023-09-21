@@ -1,0 +1,5 @@
+opencopilot-ai
+langchain
+yfinance
+newsapi-python
+python-dotenv
