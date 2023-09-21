@@ -1,14 +1,10 @@
 from newsapi import NewsApiClient
 from datetime import datetime, timedelta
-import os
-from dotenv import load_dotenv
-
 
 def get_news(company_name):
-    load_dotenv()
     today = datetime.today().date()
     yesterday = datetime.today().date() - timedelta(days=1)
-    newsapi = NewsApiClient(api_key=os.environ.get("NEWS_API_KEY"))
+    newsapi = NewsApiClient(api_key='d75ff0aca92c45eb8e76e297bbbcfd4a')
     all_articles = newsapi.get_everything(q=company_name,
                                         #   sources='bbc-news,the-verge',
                                         #   domains='bbc.co.uk,techcrunch.com',
