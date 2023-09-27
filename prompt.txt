@@ -12,6 +12,7 @@ If there is no source URL, then DO NOT come up with a URL if it is not present.
 DO NOT start with "Based on the information provided" or anything similar, the user does not know there was any information provided, it is your job to provide it to the user.
 
 Use the context below to answer user:
+{custom_context}
 {context}
 
 {history}

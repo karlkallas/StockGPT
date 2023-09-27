@@ -1,5 +1,5 @@
-opencopilot-ai
+git+https://github.com/opencopilotdev/opencopilot.git@lightyear-copilot
 langchain
-yfinance
-newsapi-python
-python-dotenv
+yfinance==0.2.28
+newsapi-python==0.2.7
+python-dotenv==1.0.0
