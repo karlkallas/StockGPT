@@ -91,7 +91,8 @@ def main():
             return []
 
     @copilot.context_builder
-    async def call_copilot(context_input: ContextInput) -> List[Document]:
+    async def query_company_info(context_input: ContextInput) -> List[Document]:
+        # TODO: use async stuff here
         extracted_company = extract_query_context.extract(context_input.message)
         if not extracted_company or len(extracted_company) != 2:
             return []
