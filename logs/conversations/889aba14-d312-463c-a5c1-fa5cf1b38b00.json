@@ -1,9 +1,0 @@
-[
-    {
-        "prompt": "what is the average 10 day daily volume",
-        "response": "The average 10-day daily volume for Tesla Inc. is **121,920,840** shares. This metric represents the average number of shares traded over the last 10 trading days. It can be used to gauge the current interest in a company's stock and to identify trading patterns. [source](https://finance.yahoo.com/quote/TSLA/key-statistics?p=TSLA)",
-        "prompt_timestamp": 1695254298.772415,
-        "response_timestamp": 1695254306.416113,
-        "response_message_id": "90f7947a-631f-4e32-819c-5e8dc72f9c51"
-    }
-]
